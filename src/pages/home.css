@@ -1,0 +1,36 @@
+.contenidoHome {
+  background-image: url("../assets/img/background3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+ 
+}
+
+.contenidoHomeTabla{
+  width: 100%;
+}
+
+.contenidoTitulo{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.contenidoBotonAgregar{
+  display: flex;
+  padding: 1rem;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.contenidoBotonAgregar p{
+  margin-right: 1rem;
+  font-weight: bold;
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
